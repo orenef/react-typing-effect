@@ -1,6 +1,6 @@
 # react-typing-text-effect
 
-react-typing-text-effect is a react base component that ...
+react-typing-text-effect is a react base component with zero dependencies, use to add the typing effect.
 
 codesandbox demo -> [Demo](https://hdw4h.csb.app/)
 ## Installation
