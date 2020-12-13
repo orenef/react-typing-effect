@@ -1,1 +1,1 @@
-export { Base } from './Base'
+export { TypingEffect } from './TypingEffect'

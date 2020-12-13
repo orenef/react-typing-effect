@@ -1,7 +1,7 @@
 {
-  "name": "react-typescript-rollup-parcel-template",
+  "name": "react-typing-effect",
   "version": "1.0.0",
-  "description": "Base template",
+  "description": "React component for enrich text with with typing effect",
   "main": "build/index.js",
   "module": "build/index.es.js",
   "scripts": {

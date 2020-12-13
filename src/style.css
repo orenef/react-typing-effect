@@ -1,0 +1,25 @@
+.react-hacker-typing-console-container {
+    white-space: nowrap;
+    overflow: hidden;    
+    font-family: monospace;  
+    font-size: 28px;
+    color: lime;
+    text-align:center;
+    display:block;
+}
+
+.react-hacker-typing-console-cursor {
+    position:relative;
+    left:5px;
+    animation: react-hacker-typing-animated-cursor 650ms steps(29,end) infinite;
+    border-left: solid 3px rgba(0,255,0,.75);
+    text-shadow: 0 0 5px rgba(51, 255, 51, 0.75);
+}
+
+/* cursor animations */
+
+@keyframes react-hacker-typing-animated-cursor{
+    from{border-left-color: rgba(0,255,0,.75);}
+    to{border-left-color: transparent;}
+}
+
