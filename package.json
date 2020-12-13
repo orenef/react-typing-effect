@@ -1,9 +1,10 @@
 {
-  "name": "react-typing-effect",
-  "version": "1.0.0",
+  "name": "react-typing-text-effect",
+  "version": "1.0.1",
   "description": "React component for enrich text with with typing effect",
   "main": "build/index.js",
   "module": "build/index.es.js",
+  "homepage": "https://github.com/orenef/react-typing-effect",
   "scripts": {
     "start": "parcel --out-dir playground-build ./src/playground/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",

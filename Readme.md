@@ -1,21 +1,21 @@
-# react-typing-effect
+# react-typing-text-effect
 
-react-typing-effect is a react base component that ...
+react-typing-text-effect is a react base component that ...
 
-codesandbox demo -> [Demo]()
+codesandbox demo -> [Demo](https://hdw4h.csb.app/)
 ## Installation
 
-Use the package manager [npm]() to install .
+Use the package manager [npm](https://www.npmjs.com/package/react-typing-text-effect) to install .
 
 ```bash
-npm install 
+npm i react-typing-text-effect
 ```
 
 ## Usage
 
 ```jsx
 import React from "react";
-import { TypingEffect } from "react-typing-effect";
+import { TypingEffect } from "react-typing-text-effect";
 
 export default function App() {
   return (
