@@ -1,8 +1,11 @@
 # react-typing-text-effect
+![npm](https://img.shields.io/npm/v/react-typing-text-effect) ![npm bundle size](https://img.shields.io/bundlephobia/min/react-typing-text-effect) ![GitHub top language](https://img.shields.io/github/languages/top/orenef/react-typing-effect) ![npm](https://img.shields.io/npm/dt/react-typing-text-effect) ![NPM](https://img.shields.io/npm/l/react-typing-text-effect)
+
+[![typing.png](https://i.postimg.cc/W1f73gd2/typing.png)](https://postimg.cc/VJntZS9T)
 
 react-typing-text-effect is a react base component with zero dependencies, use to add the typing effect.
 
-codesandbox demo -> [Demo](https://hdw4h.csb.app/)
+[See Demo at codesandbox](https://hdw4h.csb.app/)
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/package/react-typing-text-effect) to install .
@@ -41,4 +44,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[ISC](https://choosealicense.com/licenses/isc/)
